@@ -4,7 +4,7 @@ import { Button } from '../index';
 export const primary = () => (
   <>
     <Button size="small" onPress={() => alert('Button pressed!')}>
-      Smally
+      Small
     </Button>
     <Button size="medium" onPress={() => alert('Button pressed!')}>
       Medium
